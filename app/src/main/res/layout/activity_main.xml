@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/bg_FFFFFF"
+    android:orientation="vertical"
+    tools:context="com.qiaoxg.leanclouddemo.activity.MainActivity">
+
+    <Button
+        android:id="@+id/textMsg"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textAllCaps="false"
+        android:text="Text Msg"/>
+
+    <Button
+        android:id="@+id/audioMsg"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textAllCaps="false"
+        android:layout_marginTop="7dp"
+        android:text="Audio Msg"/>
+</LinearLayout>

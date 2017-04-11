@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="avoscloud-feedback-v3.16.1">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.android/build-cache/9e4214acff9807dee34b52b6f12d3bea287dbcb2/output/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.android/build-cache/9e4214acff9807dee34b52b6f12d3bea287dbcb2/output/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
