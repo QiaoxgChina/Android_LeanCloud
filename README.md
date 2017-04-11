@@ -1,2 +1,3 @@
-# Demo
-this demo is a private demo
+# android leancloud Demo
+
+this demo is a leancloud Demo
